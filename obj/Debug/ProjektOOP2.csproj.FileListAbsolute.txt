@@ -1,0 +1,145 @@
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Users\Hampus\source\repos\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.ProductManagement.resources
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Information Systems\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.ProductManagement.resources
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.PlaceOrder.resources
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.dll
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.xml
+C:\Users\Hampus\Desktop\OOP2\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CopyComplete
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.dll
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.xml
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.PlaceOrder.resources
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.ProductManagement.resources
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CoreCompileInputs.cache
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CopyComplete
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Users\vhold\Downloads\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.CustomerManagement.resources
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.dll
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.xml
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.CustomerManagement.resources
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.ProductManagement.resources
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CopyComplete
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\ProjektOOP2 (2)\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Warehouse.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe.config
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.dll
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Buffers.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Memory.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Text.Json.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\bin\Debug\System.ValueTuple.xml
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csprojAssemblyReference.cache
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.CustomerManagement.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Form1.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Warehouse.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.ProductManagement.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.Properties.Resources.resources
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.GenerateResource.cache
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CopyComplete
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.exe
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.pdb
+C:\Users\Hampus\Desktop\ProjektOOP2\ProjektOOP2\obj\Debug\ProjektOOP2.csproj.CoreCompileInputs.cache
