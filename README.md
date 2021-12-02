@@ -1,7 +1,7 @@
 # OOP---Warehouse-automation
 This project was created in collaboration with Vilgot Holdar and Hampus Andersson during my b.sc. studies at Uppsala University. 
 
-In the project we used .json for storage. The GUI was created in windows forms. 
+In the project we used .json for storage. The GUI was created in windows forms. Event driven architecture.
 
 The implementation is based on provided functional and non-functional requirements, as well as a class diagram. 
 
